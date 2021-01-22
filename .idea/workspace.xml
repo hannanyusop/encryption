@@ -20,41 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aac43fb1-52f8-4467-ae46-803239ec587d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/box/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/box/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/box/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/box/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/box/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/box/14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/box/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/box/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/box/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/box/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/box/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/box/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/box/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/box/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/keybase/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/keybase/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/keybase/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/keybase/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/keybase/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/keybase/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/keybase/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/keybase/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/keybase/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/keybase/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/keybase/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/keybase/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/keybase/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/keybase/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/unicode/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/unicode/2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/keybase.php" beforeDir="false" afterPath="$PROJECT_DIR$/keybase.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/team.php" beforeDir="false" afterPath="$PROJECT_DIR$/team.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +43,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/box" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/team" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -87,11 +54,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\encryption\assets\img\team" />
       <recent name="C:\laragon\www\encryption\assets\img\box" />
       <recent name="C:\laragon\www\encryption" />
       <recent name="C:\laragon\www\encryption\assets\img\unicode" />
       <recent name="C:\laragon\www\encryption\assets\img\keybase" />
-      <recent name="C:\laragon\www\encryption\assets\img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -104,7 +71,8 @@
       <updated>1610996579428</updated>
       <workItem from="1610996580495" duration="2713000" />
       <workItem from="1611061559436" duration="20000" />
-      <workItem from="1611130947201" duration="4266000" />
+      <workItem from="1611130947201" duration="5089000" />
+      <workItem from="1611309814164" duration="2366000" />
     </task>
     <servers />
   </component>

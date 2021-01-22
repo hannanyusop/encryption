@@ -9,10 +9,10 @@
 
   <section id="hero">
     <div class="hero-container">
-      <h3>Welcome to <strong>Tempo</strong></h3>
-      <h1>We're Creative Agency</h1>
-      <h2>We are team of talanted designers making websites with Bootstrap</h2>
-      <a href="#about" class="btn-get-started scrollto">Get Started</a>
+      <h3>BITP 3423</h3>
+      <h1>INFORMATION TECHNOLOGY SECURITY</h1>
+      <h2>Mini Project</h2>
+      <a href="team.php" class="btn-get-started scrollto">Our Hardworking Team</a>
     </div>
   </section><!-- End Hero -->
 
@@ -24,30 +24,13 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <h3>Learn More <span>About Us</span></h3>
-          <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
-        </div>
-
-        <div class="row content">
-          <div class="col-lg-6">
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <ul>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-            </ul>
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0">
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum.
-            </p>
-            <a href="#" class="btn-learn-more">Learn More</a>
-          </div>
+          <h3>Introduction</h3>
+          <p>Encryption tools is a software that use cryptography to fend off unauthorized access to digital information.
+              Cryptography is used to protect digital information on computers as well as the digital information that is
+              sent to other computers over the vast internet network. Encryption involves the use of mathematical algorithms
+              that are used to encode user data so that only intended recipients can access the contents. The encryption tools
+              work by converting plaintext into ciphertext. Moreover, tools for encryption does all this heavy lifting automatically,
+              engaging cipher keys to both encrypt and decrypt any kind of data user want to transfer securely.</p>
         </div>
 
       </div>
@@ -58,41 +41,36 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Services</h2>
-          <h3>We do offer awesome <span>Services</span></h3>
-          <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
+          <h2>encryption algorithm</h2>
+          <h3>Most common encryption algorithm</h3>
         </div>
 
         <div class="row">
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
-              <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <div class="icon"><i class="bx bx-key"></i></div>
+              <h4 class="title"><a href="">Triple Data Encryption Algorithm</a></h4>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-file"></i></div>
-              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <div class="icon"><i class="bx bx-key"></i></div>
+              <h4 class="title"><a href="">Advanced Encryption Standard</a></h4>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <div class="icon"><i class="bx bx-key"></i></div>
+              <h4 class="title"><a href="">River-Shamir-Adleman (RSA)</a></h4>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-world"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <div class="icon"><i class="bx bx-key"></i></div>
+              <h4 class="title"><a href="">Format Preserving Encryption</a></h4>
             </div>
           </div>
 
@@ -102,166 +80,87 @@
     </section><!-- End Services Section -->
 
     <!-- ======= Features Section ======= -->
-    <section id="features" class="features">
-      <div class="container">
-
-        <div class="row">
-          <div class="col-lg-3 col-md-4 col-6 col-6">
-            <div class="icon-box">
-              <i class="ri-store-line" style="color: #ffbb2c;"></i>
-              <h3><a href="">Lorem Ipsum</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-6">
-            <div class="icon-box">
-              <i class="ri-bar-chart-box-line" style="color: #5578ff;"></i>
-              <h3><a href="">Dolor Sitema</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-6 mt-4 mt-md-0">
-            <div class="icon-box">
-              <i class="ri-calendar-todo-line" style="color: #e80368;"></i>
-              <h3><a href="">Sed perspiciatis</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-6 mt-4 mt-lg-0">
-            <div class="icon-box">
-              <i class="ri-paint-brush-line" style="color: #e361ff;"></i>
-              <h3><a href="">Magni Dolores</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-6 mt-4">
-            <div class="icon-box">
-              <i class="ri-database-2-line" style="color: #47aeff;"></i>
-              <h3><a href="">Nemo Enim</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-6 mt-4">
-            <div class="icon-box">
-              <i class="ri-gradienter-line" style="color: #ffa76e;"></i>
-              <h3><a href="">Eiusmod Tempor</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-6 mt-4">
-            <div class="icon-box">
-              <i class="ri-file-list-3-line" style="color: #11dbcf;"></i>
-              <h3><a href="">Midela Teren</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-6 mt-4">
-            <div class="icon-box">
-              <i class="ri-price-tag-2-line" style="color: #4233ff;"></i>
-              <h3><a href="">Pira Neve</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-6 mt-4">
-            <div class="icon-box">
-              <i class="ri-anchor-line" style="color: #b2904f;"></i>
-              <h3><a href="">Dirada Pack</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-6 mt-4">
-            <div class="icon-box">
-              <i class="ri-disc-line" style="color: #b20969;"></i>
-              <h3><a href="">Moton Ideal</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-6 mt-4">
-            <div class="icon-box">
-              <i class="ri-base-station-line" style="color: #ff5828;"></i>
-              <h3><a href="">Verdo Park</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-6 mt-4">
-            <div class="icon-box">
-              <i class="ri-fingerprint-line" style="color: #29cc61;"></i>
-              <h3><a href="">Flavor Nivelanda</a></h3>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Features Section -->
 
     <!-- ======= Cta Section ======= -->
     <section id="cta" class="cta">
       <div class="container">
 
         <div class="text-center">
-          <h3>Call To Action</h3>
-          <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          <a class="cta-btn" href="#">Call To Action</a>
+          <h3>Tools</h3>
+          <p>For this mini project we explored 3 tools that using encryption method</p>
+          <a class="cta-btn" href="keybase.php">View Tools</a>
         </div>
 
       </div>
     </section><!-- End Cta Section -->
+
+
+      <section id="pricing" class="pricing">
+          <div class="container">
+
+              <div class="section-title">
+                  <h2>CIA</h2>
+                  <h3>Confidentiality, Integrity & Availability</h3>
+              </div>
+
+              <div class="row">
+
+                  <div class="col-lg-4 col-md-6">
+                      <div class="box">
+                          <h3>Keybase.io</h3>
+                          <ul>
+                              <li><b>Confidentiality</b><br> Only authorized account who are registered by phone no. have full access to the application.</li>
+                              <li><b>Integrity</b><br> The data can be share to other user from difference platform. But only the user with authorized account can share the data either sent the data or receive the data.  </li>
+                              <li><b>Availability</b><br> Only authorized account can be achieved the data based on where the data is stored and how it can be reached.</li>
+                          </ul>
+                          <div class="btn-wrap">
+                              <a href="keybase.php" class="btn-buy">View</a>
+                          </div>
+                      </div>
+                  </div>
+
+                  <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+                      <div class="box recommended">
+                          <h3>Unicode Cryptor</h3>
+                          <ul>
+                              <li><b>Confidentiality</b><br> Everyone can access the application as the application didn’t have user to register any account. </li>
+                              <li><b>Integrity</b><br> The data for this application has no integrity at all as anyone can encrypt/decrypt using the application with no limit.</li>
+                              <li><b>Availability</b><br> The data didn’t store at any platform as the application is like on/off application because user can insert any text and it will straightly decrypt.</li>
+                          </ul>
+                          <div class="btn-wrap">
+                              <a href="unicode.php" class="btn-buy">View</a>
+                          </div>
+                      </div>
+                  </div>
+
+                  <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
+                      <div class="box">
+                          <h3>Boxcryptor</h3>
+                          <ul>
+                              <li><b>Confidentiality</b><br> The user need to login/sign up by email to have full access of the application.</li>
+                              <li><b>Integrity</b><br> The application has full integrity as every folder need to set pin/password before can be shared. And the set of pin/password can be done only by authorized user.</li>
+                              <li><b>Availability</b><br> The data is secure as if authorized user wants to achieved the data, the user need to enter correct pin/password to have access to the data.</li>
+                          </ul>
+                          <div class="btn-wrap">
+                              <a href="box.php" class="btn-buy">View </a>
+                          </div>
+                      </div>
+                  </div>
+
+              </div>
+
+          </div>
+      </section><!-- End Pricing Section -->
 
     <!-- ======= F.A.Q Section ======= -->
     <section id="faq" class="faq">
       <div class="container">
 
         <div class="section-title">
-          <h2>F.A.Q</h2>
-          <h3>Frequently Asked <span>Questions</span></h3>
+          <h3>Conclusion</h3>
         </div>
 
-        <ul class="faq-list">
-
-          <li>
-            <a data-bs-toggle="collapse" class="" data-bs-target="#faq1">Non consectetur a erat nam at lectus urna duis? <i class="icofont-simple-up"></i></a>
-            <div id="faq1" class="collapse show" data-bs-parent=".faq-list">
-              <p>
-                Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
-              </p>
-            </div>
-          </li>
-
-          <li>
-            <a data-bs-toggle="collapse" data-bs-target="#faq2" class="collapsed">Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque? <i class="icofont-simple-up"></i></a>
-            <div id="faq2" class="collapse" data-bs-parent=".faq-list">
-              <p>
-                Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
-              </p>
-            </div>
-          </li>
-
-          <li>
-            <a data-bs-toggle="collapse" data-bs-target="#faq3" class="collapsed">Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi? <i class="icofont-simple-up"></i></a>
-            <div id="faq3" class="collapse" data-bs-parent=".faq-list">
-              <p>
-                Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
-              </p>
-            </div>
-          </li>
-
-          <li>
-            <a data-bs-toggle="collapse" data-bs-target="#faq4" class="collapsed">Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla? <i class="icofont-simple-up"></i></a>
-            <div id="faq4" class="collapse" data-bs-parent=".faq-list">
-              <p>
-                Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
-              </p>
-            </div>
-          </li>
-
-          <li>
-            <a data-bs-toggle="collapse" data-bs-target="#faq5" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="icofont-simple-up"></i></a>
-            <div id="faq5" class="collapse" data-bs-parent=".faq-list">
-              <p>
-                Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
-              </p>
-            </div>
-          </li>
-
-          <li>
-            <a data-bs-toggle="collapse" data-bs-target="#faq6" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="icofont-simple-up"></i></a>
-            <div id="faq6" class="collapse" data-bs-parent=".faq-list">
-              <p>
-                Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Nibh tellus molestie nunc non blandit massa enim nec.
-              </p>
-            </div>
-          </li>
-
-        </ul>
+        <p>Encryption is the way to keep our data safe. Data transfer encryption programs are constantly evolving, and it will be interesting to see what kind of security measures will be implement in the future.</p>
 
       </div>
     </section><!-- End F.A.Q Section -->

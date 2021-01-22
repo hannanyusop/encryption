@@ -24,7 +24,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/hannan.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/hannan.gif" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>ABDUL HANNAN BIN YUSOP</h4>
@@ -36,7 +36,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/jol.gif" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>HAFIZUL AIZAD BIN MOHD NOOR</h4>
@@ -48,7 +48,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/balqis.gif" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>FAIZNUR BALKHIS BINTI MOHIDI </h4>
@@ -60,7 +60,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/aisyah.gif" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>NURUL AISHAH BINTI ROSLI</h4>
@@ -72,7 +72,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/bad.gif" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>MOHAMAD BADRUL AMIN BIN ABU BAKAR</h4>
@@ -84,11 +84,11 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/azly.gif" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>MUHAMMAD AZLY BIN MUSA</h4>
-                <span>B03191</span>
+                <span>B031910235</span>
               </div>
             </div>
           </div>
